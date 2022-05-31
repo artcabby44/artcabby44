@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Web application pentesting, web development & embedded system.**
 
-- 📫 How to reach me **artcabiao44@gmail.com**
+- 📫 How to reach me **james-cabby.vercel.app**
 
 - ⚡ Fun fact **I love making electronics projects.**
 
