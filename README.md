@@ -1,11 +1,11 @@
 [![MasterHead](https://cdn.weasyl.com/~fluffkevlar/submissions/30165/efb64790c6059bf9f32f9922bdfd36fad18bdd135aff5f67e99a7f0f29749042/fluffkevlar-starfield-gif.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Artjames</h1>
-<h3 align="center">I'm a tech enthusiast & a computer engineering student.</h3>
+<h3 align="center">I'm a tech enthusiast Computer Engineering graduate and working as Information Security and Compliance Analyst.</h3>
 <img align="right" alt="Coding" width="400" src="https://25.media.tumblr.com/72d5855e55a1971645b927c14debc7ce/tumblr_mtjget4P4m1ru39xmo1_500.gif">
 
-- 🌱 I’m currently learning **Web application pentesting, web development & embedded system.**
+- 🌱 My interest are **Web application pentesting, electronics & embedded system.**
 
-- 📫 You can reach me <a href="https://james-cabby.vercel.app/"> HERE </a> 
+- 📫 Visit my website to know me more <a href="https://james-cabby.vercel.app/"> CLICK HERE </a> 
 
 - ⚡ Fun fact **I love making electronics projects.**
 
