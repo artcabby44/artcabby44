@@ -1,13 +1,11 @@
 [![MasterHead](https://cdn.weasyl.com/~fluffkevlar/submissions/30165/efb64790c6059bf9f32f9922bdfd36fad18bdd135aff5f67e99a7f0f29749042/fluffkevlar-starfield-gif.gif)](https://rishavchanda.io)
-<h1 align="center">Hi 👋, I'm Artjames</h1>
-<h3 align="center">I'm a tech enthusiast Computer Engineering graduate and working as Information Security and Compliance Analyst.</h3>
+<h1 align="center">Hi 👋, I'm Art</h1>
+<h3 align="center">I'm a tech enthusiast who loves automating   boring stuff. **Spag code ahead**</h3>
 <img align="right" alt="Coding" width="400" src="https://25.media.tumblr.com/72d5855e55a1971645b927c14debc7ce/tumblr_mtjget4P4m1ru39xmo1_500.gif">
 
-- 🌱 My interest are **Web application pentesting, electronics & embedded system.**
+- 🌱 My interest are **Web application pentesting, Infosec & compliance, Electronics & Embedded system.**
 
-- 📫 Visit my website to know me more <a href="https://james-cabby.vercel.app/"> CLICK HERE </a> 
-
-- ⚡ Fun fact **I love making electronics projects.**
+- ⚡ Fun fact **I like making electronics projects and reverse engineering stuffs(breaking to see how it works)**
 
 <h3 align="left">🤝🏻 Connect with me: </h3>
 <p align="left">
